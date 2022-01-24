@@ -22,31 +22,3 @@ footer {
     height: 40px;
     width: 100%;
 }
-
-  
-  
-  
-/*@media (max-width: 600px) {
-
-    body{
-        flex-direction: column;
-    }
-
-    .section{
-        flex-basis: auto;
-    }
-
-    .section .label{
-        padding: 20px 20px;
-        font: bold 20px/1.5 'Open Sans', sans-serif;
-        margin: 0 0 20px;
-    }
-
-   footer {
-    bottom: 0;
-    position: fixed;
-    text-align: center;
-    height: 40px;
-    width: 100%;
-
-}*/
